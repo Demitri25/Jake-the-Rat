@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Storybook Reader",
+  "description": "An interactive storybook for young readers. Click on any word to hear it spoken aloud by a friendly voice, helping children learn to read.",
+  "requestFramePermissions": []
+}
